@@ -67,4 +67,4 @@ Próximos pasos
 -Estadísticas (horas totales, juegos terminados, género más jugado)
 -Botón "¿A qué juego hoy?" que elija uno al azar del -Despliegue online
 
-Autora: Nerea — @nerean0213b
+Autora: Nerea Martín Bravo — @nerean0213b
